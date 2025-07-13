@@ -1,0 +1,39 @@
+group 'com.ero.gl_canvas'
+version '1.0'
+
+buildscript {
+    repositories {
+        google()
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:4.1.0'
+    }
+}
+
+rootProject.allprojects {
+    repositories {
+        google()
+        jcenter()
+    }
+}
+
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 31
+    namespace 'com.example.glcanvas'
+    ndkVersion = "27.0.12077973"
+
+    defaultConfig {
+        minSdkVersion 21
+    }
+
+
+    externalNativeBuild {
+        cmake {
+            path 'src/main/cpp/CMakeLists.txt'
+        }
+    }
+}

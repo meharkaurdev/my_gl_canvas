@@ -1,0 +1,10 @@
+# ninja log v5
+1	1883	7733142283873550	CMakeFiles/gl_canvas.dir/gl_canvas.cpp.o	4345ad685ce5282e
+1900	3051	7733142295713996	D:/JASMEET SINGH/smp_latest/build/gl_canvas/intermediates/cxx/RelWithDebInfo/p14443u4/obj/x86/libgl_canvas.so	19ce63543342c1a0
+133	3012	7733159148062700	D:/JASMEET SINGH/smp_latest/build/gl_canvas/intermediates/cxx/RelWithDebInfo/p14443u4/obj/x86/libgl_canvas.so	19ce63543342c1a0
+50	1047	7733264119455130	D:/JASMEET SINGH/smp_latest/build/gl_canvas/intermediates/cxx/RelWithDebInfo/p14443u4/obj/x86/libgl_canvas.so	19ce63543342c1a0
+32	808	7733344505120166	D:/JASMEET SINGH/smp_latest/build/gl_canvas/intermediates/cxx/RelWithDebInfo/p14443u4/obj/x86/libgl_canvas.so	19ce63543342c1a0
+92	5217	7733379238785806	D:/JASMEET SINGH/smp_latest/build/gl_canvas/intermediates/cxx/RelWithDebInfo/p14443u4/obj/x86/libgl_canvas.so	19ce63543342c1a0
+81	2365	7733411685076168	D:/JASMEET SINGH/smp_latest/build/gl_canvas/intermediates/cxx/RelWithDebInfo/p14443u4/obj/x86/libgl_canvas.so	19ce63543342c1a0
+229	1142	7734346254169945	D:/JASMEET SINGH/smp_latest/build/gl_canvas/intermediates/cxx/RelWithDebInfo/p14443u4/obj/x86/libgl_canvas.so	19ce63543342c1a0
+29	696	7734391335339229	D:/JASMEET SINGH/smp_latest/build/gl_canvas/intermediates/cxx/RelWithDebInfo/p14443u4/obj/x86/libgl_canvas.so	19ce63543342c1a0

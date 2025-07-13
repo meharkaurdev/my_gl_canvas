@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "C:\\Users\\jasi1\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\gl_canvas-1.0.6\\android\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\Asdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\jasi1\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\gl_canvas-1.0.6\\android\\.cxx\\RelWithDebInfo\\p14443u4\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\Asdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\jasi1\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\gl_canvas-1.0.6\\android\\.cxx\\RelWithDebInfo\\p14443u4\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "gl_canvas::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "armeabi-v7a",
+      "artifactName": "gl_canvas",
+      "output": "D:\\JASMEET SINGH\\smp_latest\\build\\gl_canvas\\intermediates\\cxx\\RelWithDebInfo\\p14443u4\\obj\\armeabi-v7a\\libgl_canvas.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "D:\\Asdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "D:\\Asdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

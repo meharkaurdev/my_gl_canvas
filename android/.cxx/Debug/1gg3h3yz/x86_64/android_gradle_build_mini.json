@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\jasi1\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\gl_canvas-1.0.6\\android\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\Asdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\jasi1\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\gl_canvas-1.0.6\\android\\.cxx\\Debug\\1gg3h3yz\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\Asdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\jasi1\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\gl_canvas-1.0.6\\android\\.cxx\\Debug\\1gg3h3yz\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "gl_canvas::@6890427a1f51a3e7e1df": {
+      "artifactName": "gl_canvas",
+      "abi": "x86_64",
+      "output": "D:\\allapp code main\\sikhi\\build\\gl_canvas\\intermediates\\cxx\\Debug\\1gg3h3yz\\obj\\x86_64\\libgl_canvas.so",
+      "runtimeFiles": []
+    }
+  }
+}

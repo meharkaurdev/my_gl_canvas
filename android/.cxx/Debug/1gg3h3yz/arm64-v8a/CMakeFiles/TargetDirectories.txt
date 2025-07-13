@@ -1,0 +1,3 @@
+C:/Users/jasi1/AppData/Local/Pub/Cache/hosted/pub.dev/gl_canvas-1.0.6/android/.cxx/Debug/1gg3h3yz/arm64-v8a/CMakeFiles/gl_canvas.dir
+C:/Users/jasi1/AppData/Local/Pub/Cache/hosted/pub.dev/gl_canvas-1.0.6/android/.cxx/Debug/1gg3h3yz/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/jasi1/AppData/Local/Pub/Cache/hosted/pub.dev/gl_canvas-1.0.6/android/.cxx/Debug/1gg3h3yz/arm64-v8a/CMakeFiles/rebuild_cache.dir
